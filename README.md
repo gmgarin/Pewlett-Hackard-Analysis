@@ -7,22 +7,25 @@
 ### -Entity Relationship Diagram
 #### The analysis of the data started by establishing relationship of data using Entity Relationship Diagram (ERD). This schematic diagram helped me identified the connection between the variables involved. See image below.
 
-<p align="center">
 ![This is an image](/Resources/EmployeeDB.png)
+<p align="center">
+    ERD 
 </p>
 
 ### - Employee Titles
 #### The table shows the number of employees in each titles. Once these eligible employees retire, the positions that will be opened will be coming from senior engineer, senior staff, engineer, and staff.
 
-<p align="center">
 ![This is an image](/Resources/titles.png)
+<p align="center">
+    Retiring Titles
 </p>
 
 ### - Mentorship Eligibility
 #### By using filtering through the dates, employees who are eligible for mentorship program are identified. 
 
-<p align="center">
 ![This is an image](/Resources/mentorship_list.png)
+<p align="center">
+    Mentorship Candidates
 </p>
 
 
