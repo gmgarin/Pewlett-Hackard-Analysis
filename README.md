@@ -6,7 +6,7 @@
 ## **Results**
 ### The analysis of the data started by establishing relationship of data using Entity Relationship Diagram (ERD). This schematic diagram helped me identified the connection between the variables involved. See image below.
 
-![This is an image](/Pewlett-Hackard-Analysis/EmployeesDB.png)
+![This is an image](/EmployeesDB.png)
 <p align="center">
     ERD
 </p>
