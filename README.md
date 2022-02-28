@@ -9,7 +9,6 @@
 
 <p align="center">
 ![This is an image](/Resources/EmployeeDB.png)
- ERD
 </p>
 
 ### - Employee Titles
@@ -17,7 +16,6 @@
 
 <p align="center">
 ![This is an image](/Resources/titles.png)
- Retiring Titles
 </p>
 
 ### - Mentorship Eligibility
@@ -25,7 +23,6 @@
 
 <p align="center">
 ![This is an image](/Resources/mentorship_list.png)
- Retiring Titles
 </p>
 
 
