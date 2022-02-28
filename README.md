@@ -7,7 +7,7 @@
 ### *Entity Relationship Diagram
 #### The analysis of the data started by establishing relationship of data using Entity Relationship Diagram (ERD). This schematic diagram helped me identified the connection between the variables involved. See image below.
 
-![This is an image](/Resources/EmployeesDB.png)
+![This is an image](/Resources/EmployeeDB.png)
 <p align="center">
     ERD
 </p>
